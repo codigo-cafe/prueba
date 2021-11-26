@@ -1,2 +1,2 @@
 # prueba_rest
- API con reservación de habitaciones para nuestros clientes
+ API REST con reservación de habitaciones para nuestros clientes, desarrollada con DJANGO REST FRAMEWORK
