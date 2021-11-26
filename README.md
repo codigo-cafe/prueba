@@ -21,14 +21,14 @@
 
 # Lista de endpoints
 
-1.- Lista de clientes: (Client Api View)
+1.- Lista de Clientes: (Client Api View)
 
                         http://localhost:8000/clients/client/
 
  endpoint creado para mostrar una lista de los clientes registrados con información detallada.
  Permite métodos GET, POST, OPTIONS
 
-2.- Detalle del cliente: (Client Detail Api View)
+2.- Detalle del Cliente: (Client Detail Api View)
 
                         http://localhost:8000/clients/client/1/
 
